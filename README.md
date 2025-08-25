@@ -1,0 +1,2 @@
+# hard-skills
+Matplotlib diagrama
