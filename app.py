@@ -56,19 +56,19 @@ skill_tips = {
     "BIOLOGIJA, NEUROMOKSLAI": ["Tyrinėk laboratorinius darbus", "Sek naujausius mokslo straipsnius", "Eksperimentuok su duomenų analize", "Praktikuok mikroskopiją", "Gilinkis į genetiką"],
     "MEDICINOS MOKSLAI": ["Mokykis iš klinikinių atvejų", "Dalyvauk praktikose ligoninėse", "Gilinkis į anatomiją", "Studijuok farmacijos pagrindus", "Sek medicinos naujienas"],
     "CHEMIJA, BIOTECHNOLOGIJOS": ["Atlik eksperimentus laboratorijoje", "Studijuok chemijos reakcijas", "Sek biotechnologijų startuolius", "Eksperimentuok su naujomis medžiagomis", "Skaityk mokslinius žurnalus"],
-    "MATEMATIKA, KVANTINĖ FIZIKA": ["Spręsk konkursinės užduotis", "Dalyvauk olimpiadose", "Studijuok pažangius vadovėlius", "Mokyk kitus – dėstymas gilina suvokimą", "Programuok matematikos modelius"],
-    "DIRBTINIS INTELEKTAS, MAŠINŲ MOKYMAS": ["Mokykis programavimo bibliotekos (TensorFlow, PyTorch)", "Spręsk Kaggle užduotis", "Dalyvauk AI hackathonuose", "Kurti savo projektus", "Sek AI mokslines publikacijas"],
-    "FIZIKA, ELEKTRONIKA, KOMPIUTERIJA": ["Eksperimentuok su Arduino/Raspberry Pi", "Spręsk fizikos uždavinius", "Sek technologijų naujienas", "Kurk mažus elektronikos projektus", "Išbandyk kompiuterių architektūros kursus"],
+    "MATEMATIKA, KVANTINĖ FIZIKA": ["Sprėsk konkursinės užduotis", "Dalyvauk olimpiadose", "Studijuok pažangius vadovėlius", "Mokyk kitus – dėstymas gilina suvokimą", "Programuok matematikos modelius"],
+    "DIRBTINIS INTELEKTAS, MAŠINŲ MOKYMAS": ["Mokykis programavimo bibliotekos (TensorFlow, PyTorch)", "Sprėsk Kaggle užduotis", "Dalyvauk AI hackathonuose", "Kurti savo projektus", "Sek AI mokslines publikacijas"],
+    "FIZIKA, ELEKTRONIKA, KOMPIUTERIJA": ["Eksperimentuok su Arduino/Raspberry Pi", "Sprėsk fizikos uždavinius", "Sek technologijų naujienas", "Kurk mažus elektronikos projektus", "Išbandyk kompiuterių architektūros kursus"],
     "INŽINERIJA": ["Kurk prototipus", "Dalyvauk inžineriniuose projektuose", "Studijuok CAD įrankius", "Eksperimentuok su konstrukcijomis", "Dalyvauk studentų inžinerijos organizacijose"],
     "ELEKTROTECHNIKA": ["Studijuok elektros grandines", "Praktikuok su matavimo prietaisais", "Sek naujausias energetikos tendencijas", "Eksperimentuok su saulės baterijomis", "Kurk mažus elektros projektus"],
     "MECHANIKA": ["Ardyk ir surink variklius", "Mokykis mechanikos teorijos", "Eksperimentuok su konstrukcijų stiprumu", "Dalyvauk automobilių remonto dirbtuvėse", "Kurk 3D modelius"],
-    "ARCHITEKTŪRA, MODELIAVIMAS": ["Studijuok architektūros istoriją", "Kurk 3D modelius", "Naudok AutoCAD/SketchUp", "Dalyvauk architektūriniuose konkursuose", "Sek tvarią architektūrą"],
+    "ARCHITEKTŪRA, MODELIAVIMAS": ["Studijuok architektūros istoriją", "Kurk 3D modelius", "Naudok AutoCAD/SketchUp", "Dalyvauk architektūriniuose konkursuose", "Sek tvariąją architektūrą"],
     "STATISTIKA, DUOMENYS": ["Analizuok duomenų rinkinius", "Mokykis R/Python analizės bibliotekos", "Dalyvauk Kaggle konkursuose", "Gilinkis į tikimybių teoriją", "Vizualizuok duomenis"],
     "FINANSAI, EKONOMIKA": ["Analizuok rinkas", "Sek ekonomikos naujienas", "Simuliuok investavimo scenarijus", "Studijuok įmonių finansus", "Kurk finansinius modelius"],
     "ĮSTATYMAI, TEISĖ": ["Skaityk teismo bylas", "Mokykis argumentavimo", "Sek teisės reformų naujienas", "Imituok teismo procesus su draugais", "Gilinkis į tarptautinę teisę"],
     "POLITIKA": ["Sek politinius procesus", "Diskutuok apie aktualijas", "Skaityk istorinius politinius veiksmus", "Analizuok partijų programas", "Būk aktyvus politinėse bendruomenėse"],
     "VALDŽIA, VALSTYBĖ": ["Analizuok istorinius valdymo modelius", "Sek politines naujienas", "Studijuok valdymo teorijas", "Būk aktyvus pilietinėse veiklose", "Rašyk politines analizes"],
-    "RAŠTAS, SKAIČIAI": ["Rašyk kasdien", "Praktikuok loginį mąstymą per uždavinius", "Dalyvauk rašymo kursuose", "Kurk tinklaraštį", "Spręsk kryžiažodžius"],
+    "RAŠTAS, SKAIČIAI": ["Rašyk kasdien", "Praktikuok loginį mąstymą per uždavinius", "Dalyvauk rašymo kursuose", "Kurk tinklaraštį", "Sprėsk kryžiažodžius"],
     "AMATAI, PREKYBA": ["Mokykis amato iš meistrų", "Praktikuok prekybos įgūdžius turguje", "Kurti rankdarbius", "Sek e. prekybos tendencijas", "Dalyvauk mugėse"],
     "BŪSTAS, STATYBA": ["Mokykis statybinių medžiagų savybių", "Stebėk meistrų darbą", "Eksperimentuok su mažais remontais", "Sek statybų naujienas", "Projektuok mažus namus"],
     "RELIGIJOS": ["Skaityk religinius tekstus", "Lygink skirtingas religijas", "Dalyvauk bendruomenės apeigose", "Diskutuok apie tikėjimo filosofiją", "Analizuok religijos poveikį istorijai"],
@@ -79,7 +79,7 @@ skill_tips = {
     "SEKSAS, VAIKAI": ["Domėkis šeimos psichologija", "Skaityk apie vaikų ugdymą", "Mokykis saugaus sekso pagrindų", "Diskutuok apie lyčių vaidmenis", "Stebėk vaikų raidos etapus"],
     "ŠILUMA, BUITIS": ["Mokykis buities darbų", "Eksperimentuok su interjero dizainu", "Tvarkyk buitį efektyviau", "Naudok ekologiškus sprendimus", "Sistemink namų užduotis"],
     "VALGIO RUOŠIMAS": ["Mokykis kulinarijos pagrindų", "Eksperimentuok su prieskoniais", "Studijuok maisto chemijos pagrindus", "Dalyvauk kulinarijos kursuose", "Sek virtuvės šefų technikas"],
-    "GLOBA/RŪPYBA": ["Mokykis empatiškos komunikacijos", "Studijuok slaugos pagrindus", "Praktikuok kantrybę", "Dalyvauk savanoriškose veiklose", "Sek gerųjų praktikų naujoves"],
+    "GLOBA/RŪPYBA": ["Mokykis empatiškos komunikacijos", "Studijuok slaugos pagrindus", "Praktikuok kantrybę", "Dalyvauk savanoriškose veiklose", "Sek gerųjų praktikų naujienas"],
     "EMPATIJA": ["Praktikuok aktyvų klausymą", "Skaičiuk apie psichologiją", "Stebėk žmonių elgesį", "Dalyvauk grupės terapijose", "Mokykis konfliktų sprendimo"],
     "PUOŠYBA": ["Studijuok mados istoriją", "Eksperimentuok su stiliais", "Sek dizaino tendencijas", "Mokykis spalvų teorijos", "Dalyvauk mados kursuose"],
     "MUZIKA, ŠOKIS": ["Praktikuok instrumentą kasdien", "Studijuok muzikos teoriją", "Mokykis šokio technikos", "Dalyvauk ansambliuose", "Klausykis įvairių muzikos stilių"],
@@ -155,14 +155,14 @@ def create_circular_diagram(user_skills=None):
                     hoverinfo="skip"
                 ))
                 
-                # Taškas
+                # Taškas (truputį sumažintas)
                 fig.add_trace(go.Scatter(
                     x=[user_level * math.cos(theta_rad)], 
                     y=[user_level * math.sin(theta_rad)],
                     mode="markers", 
                     marker=dict(
                         color=level_colors.get(user_level, "#FFF"), 
-                        size=16, 
+                        size=12,  # Sumažinta nuo 16
                         line=dict(color="white", width=2)
                     ),
                     name=f"Tavo: {skill_name}",
@@ -175,15 +175,19 @@ def create_circular_diagram(user_skills=None):
         theta_circle = np.linspace(0, 2 * np.pi, 100)
         x_circle = r * np.cos(theta_circle)
         y_circle = r * np.sin(theta_circle)
+        
+        # Dviems išoriniams apskritimams pakeista spalva į oranžinę
+        circle_color = "orange" if r >= 11 else "gray"
+        
         fig.add_trace(go.Scatter(
             x=x_circle, y=y_circle, 
             mode="lines", 
-            line=dict(color="gray", width=0.5), 
+            line=dict(color=circle_color, width=0.5), 
             showlegend=False, 
             hoverinfo="skip"
         ))
 
-    # Radialinės linijos kas 5 laipsniai
+    # Radialinės linijos kas 5 laipsniai - susiaurinta
     for angle in range(0, 360, 5):
         theta_rad = math.radians(90 - angle)
         x_line = [0, 12 * math.cos(theta_rad)]
@@ -191,9 +195,24 @@ def create_circular_diagram(user_skills=None):
         fig.add_trace(go.Scatter(
             x=x_line, y=y_line, 
             mode="lines", 
-            line=dict(color="gray", width=0.3), 
+            line=dict(color="gray", width=0.2),  # Sumažinta nuo 0.3
             showlegend=False, 
             hoverinfo="skip"
+        ))
+
+    # Sudėtingumo laipsniai ant 85 laipsnių vektoriaus
+    for level in range(1, 11):
+        theta_rad = math.radians(90 - 85)
+        x = level * math.cos(theta_rad)
+        y = level * math.sin(theta_rad)
+        fig.add_trace(go.Scatter(
+            x=[x], y=[y], 
+            mode="text", 
+            text=[str(level)], 
+            textposition="middle center", 
+            showlegend=False, 
+            hoverinfo="skip", 
+            textfont=dict(color="white", size=10, family="Arial Black")
         ))
 
     # Laipsnių žymės kas 15 laipsnių ant 11.5 spinduliu apskritimo
@@ -334,7 +353,7 @@ def main():
     
     **Svarbiausias klausimas:** Kuri kryptis tau ar vaikui yra mėgiama ir kokio lygio tavo pažanga?
     
-    Išvardintos 36 PROFESINĖS KRYPTYS. Apytiksliai. Pildyk tas, kurios atrodo svarbiausios ir taip kaip supranti. Arba įvertink visas, tuomet gausi daug detalesnę ataskaitą ir tikslesnių patarimų.
+    Išvardintos 36 PROFESINĖS KRYPTYS. Apytiksliai. Pildyk tas, kurios atrodo svarbiausios ir taip kaip supranti. Arba įvertink visas, tuomet gausi daug detalesni ataskaitą ir tikslesnių patarimų.
     
     Čia pirmas etapas iš [https://sekmes.lt](https://sekmes.lt) projekto švietimo tema. Antras etapas bus vartotojų profiliai (jei prireiks) ir psichologiniai tipai, o trečias - DI agentas, kuris duos neįtikėtinai tikslių patarimų. Greit :)
     """)
@@ -423,7 +442,7 @@ def main():
         - 🟡 **2 (Geltona)** – 6–13 m. mokinių teorinės žinios, labiau nei praktiniai įgūdžiai
         - 🌸 **3 (Rožinė)** – 14–18 m. jaunimo lygis, stiprūs protiniai gebėjimai, silpnesnė praktika
         - 🟠 **4 (Oranžinė)** – Vidutinis lygis – paprasti darbai (Excel, Photoshop, blynų kepimas)
-        - 🔴 **5 (Raudona)** – Mokyklos „devintukai", vidutinio sudėtingumo lygis
+        - 🔴 **5 (Raudona)** – Mokyklos „devyntukai", vidutinio sudėtingumo lygis
         - 🟢 **6 (Salotinė)** – Automechaniko pameistrys, stiprus geimeris, pradedantis kūrėjas
         - 💚 **7 (Žalia)** – Studentų / jaunųjų profesionalų lygis (Middle developer)
         - 🔮 **8 (Indigo)** – Gyvenimo herojai, nacionalinio lygio senior specialistai
@@ -439,7 +458,13 @@ def main():
             reverse=True
         )[:5]
         
-        tab_top, tab_tips = st.tabs(["🏆 5 stipriausios sritys", "💡 Kaip tobulėti"])
+        # Silpniausios 5 sritys
+        bottom_5_skills = sorted(
+            stats['evaluated_skills'], 
+            key=lambda x: user_skills.get(x, 0)
+        )[:5]
+        
+        tab_top, tab_tips, tab_bottom = st.tabs(["🏆 5 stipriausios sritys", "💡 Kaip tobulėti", "🎯 5 silpniausios sritys"])
         
         with tab_top:
             for i, skill in enumerate(top_5_skills, 1):
@@ -458,6 +483,26 @@ def main():
                 sample_tips = random.sample(tips, min(5, len(tips)))
                 for tip in sample_tips:
                     st.write(f"• {tip}")
+                st.markdown("---")
+
+        with tab_bottom:
+            st.markdown("#### 🎯 Sritys, kurioms reikia daugiau dėmesio")
+            for i, skill in enumerate(bottom_5_skills, 1):
+                level = user_skills.get(skill, 0)
+                max_level = next((s[2] for s in skills_data if s[0] == skill), 10)
+                percentage = (level / max_level * 100) if max_level > 0 else 0
+                st.write(f"**{i}.** {skill}: {level}/{max_level} ({percentage:.0f}%)")
+            
+            st.markdown("#### 💡 Rekomendacijos tobulėjimui")
+            for skill in bottom_5_skills:
+                level = user_skills.get(skill, 0)
+                st.markdown(f"**{skill}** – dabartinis lygis: **{level}**")
+                tips = skill_tips.get(skill, ["Pradėk nuo pagrindų", "Rask pradedančiųjų kursus", "Praktikuok reguliariai"])
+                # Parodyti 3-4 patarimus silpniausioms sritims
+                sample_tips = random.sample(tips, min(4, len(tips)))
+                for tip in sample_tips:
+                    st.write(f"• {tip}")
+                st.markdown("---")
 
 
 if __name__ == "__main__":
