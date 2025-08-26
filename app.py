@@ -350,7 +350,7 @@ def main():
             user_level = st.slider(
                 f"{short_name}", 
                 min_value=0, 
-                max_level=max_level, 
+                max_value=max_level, 
                 value=safe_value, 
                 key=f"skill_{skill_name}",
                 help=f"Pilnas pavadinimas: {skill_name} (max: {max_level})"
