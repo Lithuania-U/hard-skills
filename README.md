@@ -1,2 +1,2 @@
 # hard-skills
-Matplotlib diagrama
+Kietųjų įgūdžių diagrama - TESTAS
